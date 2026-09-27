@@ -1,6 +1,6 @@
 # BruceButBetter-Modul
 
-© Louis Havet-Quillivic & Joachim Willner · Version 0.4 · 21. September 2026
+© Courteron & Joachim Willner · Version 0.4 · 21. September 2026
 
 ## 1. Einleitung
 
